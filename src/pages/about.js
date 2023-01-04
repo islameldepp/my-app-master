@@ -48,7 +48,7 @@ const About = () => {
         <div className="text">
           <div className="intext">
             <h2>
-              Hello World! <br />
+              tray new branch <br />
               We Are Kasper We Make Art.
             </h2>
             <p>
