@@ -16,7 +16,7 @@ import Services from './pages/services';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/home",
     element: <Home />,
   },
   {
